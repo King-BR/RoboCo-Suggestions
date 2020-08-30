@@ -65,7 +65,3 @@ Modding community
 ## Author: Jo_Barnes#7407 (ID: 490174408481046579)
 
 Do some RoboCo merch like a plushie sandwich
-
----------------------------------------------
-
-## Author:

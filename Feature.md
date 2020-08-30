@@ -64,7 +64,3 @@ community members can apply to become translators
 ## Author: Jo_Barnes#7407 (ID: 490174408481046579)
 
 In some games you can pause time when in photomode/freecam so you can get a better look at something before it ends
-
----------------------------------------------
-
-## Author: 

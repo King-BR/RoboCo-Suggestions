@@ -15,7 +15,3 @@ And each piece of programming (E.g NOT gate) would be 1 capacity
 ## Author: KingBR#3793 (ID: 375462796697010176)
 
 Progamable leds so we can make disco partys
-
----------------------------------------------
-
-## Author:

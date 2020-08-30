@@ -19,4 +19,6 @@ new map outside of facility for ground, offroad and planes
 
 ---------------------------------------------
 
-## Author:
+## Author: KingBR#3793 (ID: 375462796697010176)
+
+Level editor so we can make custom challenges/maps
