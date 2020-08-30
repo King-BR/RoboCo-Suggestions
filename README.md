@@ -4,6 +4,8 @@ Suggestions compiled from the [official RoboCo Discord server](https://discord.g
 
 I made this to make it easier for the dev team to see the suggestions without having to search on the discord channel in the middle of repeated suggestions, comments, off-topic, etc...
 
+If you have another sugestion or i forgot to put your suggestion you can create an [issue](https://github.com/King-BR/RoboCo-Suggestions/issues) or add it with a [pull request](https://github.com/King-BR/RoboCo-Suggestions/pulls)
+
 ## Directory:
 
 * [Blocks](https://github.com/King-BR/RoboCo-Suggestions/blob/master/Blocks.md): Suggestions/requests for new blocks
